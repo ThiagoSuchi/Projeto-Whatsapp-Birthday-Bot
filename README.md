@@ -47,7 +47,7 @@ O principal objetivo deste projeto é a **aprendizagem prática**. Por meio do d
 │
 ├── src/
 │   ├── config/
-│   │   └── connection.ts         // Configuração do SQLite
+│   │   └── data-source.ts         // Configuração do SQLite
 │   │
 │   ├── entities/
 │   │   └── Contact.ts            // Arquivo que define a tabela de contatos no banco de dados.
