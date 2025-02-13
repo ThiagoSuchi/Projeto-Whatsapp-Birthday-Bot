@@ -13,8 +13,9 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^22.13.1",
-    "typescript": "^5.7.3",
-    "ts-node": "^10.9.2"
+    "@types/node-schedule": "^2.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
   },
   "dependencies": {
     "node-schedule": "^2.1.1",
